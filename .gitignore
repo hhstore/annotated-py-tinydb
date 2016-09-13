@@ -87,3 +87,19 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+
+# add 2016
+.DS_Store
+*.pyc
+*.pyo
+env
+env*
+dist
+*.egg-info
+_mailinglist
+.tox
+.idea/
+
+
+
